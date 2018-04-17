@@ -1,5 +1,3 @@
-# android
-welcome to our workspace
 ---------------push files to github-------------------
 git init
 git remote add origin git@github.com:1037861070/android.git
